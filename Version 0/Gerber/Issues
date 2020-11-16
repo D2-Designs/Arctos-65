@@ -1,1 +1,5 @@
 List of issues with the V0 Boards
+
+Main PCB:
+ - Rotary encoder not in quite the right place
+ - Rotry encoder button wired directly to the mcu, not to the matrix
